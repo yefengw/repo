@@ -42,24 +42,6 @@ Author: fiore & p2kdev & 妖刀
 Name: CCBorder16(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
 
-Package: com.forSnapper3.wkk
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3.wkk_1.1_iphoneos-arm64 2.deb
-Size: 21780
-MD5sum: 00b0d7e593148734b7ab38775345718a
-SHA1: 4a1d9ff34a0884c4b1146d72163dd7e16d5fda6d
-SHA256: 0cdc23dbd98278a0213baf165d92b94139d81273c30f0993394729e1e0120a76
-Section: 浪里个浪
-Description: 自用美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 自用美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3.json
-
 Package: com.netskao.appdata
 Version: 1.4.6
 Architecture: iphoneos-arm64e
