@@ -61,23 +61,6 @@ Markdowndescription: View & Manage Applications Data from your Home Screen<br><b
 Name: AppData
 Sileodepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
 
-Package: com.netskao.ccsim
-Version: 1.2-1
-Architecture: iphoneos-arm64e
-Maintainer: Nets
-Installed-Size: 204
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/CCSIM_1.2-1_iphoneos-arm64e.deb
-Size: 24316
-MD5sum: 6d7b385ed50bc3278da1e3b10f5deb5a
-SHA1: 8a631a335e4f308216c750a002c714d32d1a6501
-SHA256: 9e62a7c90aba39c4d5b4e6c31ad6ea3d8ce909dd5fd34c5580ff36472a44962d
-Section: Netskao-Tweaks
-Description: For dual-SIM cards, you can quickly enable or disable one of the SIM cards through the Control Center
-Author: Netskao
-Name: CCSIM
-
 Package: com.opa334.altlist
 Version: 1.0.11
 Architecture: iphoneos-arm64e
