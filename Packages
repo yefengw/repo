@@ -1,0 +1,275 @@
+Package: cn.octoforce.squidextender
+Version: 3.7.4
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce, Backup
+Installed-Size: 9988
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/SquidExtender(激活码版)_3.7.4_iphoneos-arm64e.deb
+Size: 2237252
+MD5sum: 97de503072a9848661f0488e0fd80f84
+SHA1: 0e47efe1ce4815dd51fb246bd9e3b94b8401c6d4
+SHA256: dea870e6f7cdfc01c5b6969948a01b6f7d17339ff905e372aeaf274270103ff7
+Section: 插件
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: com.0xkuj.safarix
+Version: 1.9.9.1
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 928
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/SafariX_1.9.9.1_iphoneos-arm64e.deb
+Size: 312172
+MD5sum: 83273b510df984c586e9a438812a0569
+SHA1: 90fa6c1ea947f8bc44000cbd174b12883db9f000
+SHA256: 4b0e980eee8113e9fe28979df7a3061f30aea4bc21b5ae02f951abf1088ee9aa
+Section: 插件
+Description: Safari Essential Features
+Author: 0xkuj
+Name: SafariX
+
+Package: com.82flex.noredirect
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 832
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/No Redirect_2.1_iphoneos-arm64e.deb
+Size: 88408
+MD5sum: 2b420453c5ef8499adadf66a2b40a63b
+SHA1: 513969540328b65a4ba3ce7eb80a03012738974a
+SHA256: 295fd7d390b56dafe74a5c1de878b9239aa5853d4b0952c3594ae6769d9d9d14
+Section: 插件
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Name: No Redirect
+
+Package: com.ketty.meowtimemachine
+Version: 0.0.1-106+debug
+Architecture: iphoneos-arm64e
+Maintainer: 预言小猫
+Installed-Size: 6912
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0)
+Filename: ./debs/MeowTimeMachine_0.0.1-106+debug_iphoneos-arm64e.deb
+Size: 4565048
+MD5sum: dfde96a0f745a6b08ce2fb66a3666d4b
+SHA1: a5372cc544896fce02e06807884f07caeaa86e4c
+SHA256: 8aa5b648d9919b7e531b8a4d3421c84f3ae35dfc0d6c0a84087c98552a015417
+Section: 插件
+Description: An awesome SwiftUI application!
+Author: 预言小猫
+Name: MeowTimeMachine
+
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: MrGcGamer
+Installed-Size: 380
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: ./debs/LibGcUniversal_1.7.0_iphoneos-arm64e.deb
+Size: 53444
+MD5sum: f084c5f55b3eab150c781983fd1c1b09
+SHA1: 205658269876d2904ed8dc070453e60fc799254a
+SHA256: c1afd03557ea2e8309f0e06a83d7976000da25def9c84fee9c7a576e1674a96f
+Section: 插件
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
+
+Package: com.netskao.dumpdecrypter
+Version: 1.5-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 952
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/DumpDecrypter_1.5-1_iphoneos-arm64e.deb
+Size: 393688
+MD5sum: 1d61c8f08dc20dca43db65dc90092645
+SHA1: 9c5b95e970b6ced33e2a7f2042b1584bd9772440
+SHA256: 1f4cc8e6af9aeaf355e3b710625830a5331137073ad2b100095d14f879b97873
+Section: 插件
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Name: DumpDecrypter
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypter.json
+
+Package: com.squidforce.simplehomelite
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce
+Installed-Size: 168
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Conflicts: info.adolfoi.simplehome
+Filename: ./debs/SimpleHome青春版 - 只禁用资源库_1.0.0_iphoneos-arm64e.deb
+Size: 4744
+MD5sum: 9d7d9025b1ebf16d9df67d6809858e73
+SHA1: 786be56342d236e06f3c88af7982dd8954ba17db
+SHA256: ce596adb819fb57b8af5637aba2053e218409fc932be6b2b9dbc40ba2aea92af
+Section: 插件
+Description: Remove App Library View.
+Author: SquidForce
+Name: SimpleHome青春版 - 只禁用资源库
+
+Package: com.wkk.atria
+Version: 1.4.1-6
+Architecture: iphoneos-arm64e
+Maintainer: ren7995 & SINI
+Installed-Size: 1072
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/Atria_1.4.1-6_iphoneos-arm64e.deb
+Size: 375208
+MD5sum: bfff8a10a39045143dddfb092f22f3af
+SHA1: 9d11ce2e12fee07a05d3ba2152a696a04d55b41b
+SHA256: 0fb88b12ee43dbc11b1f9c95c151bb2444cbf2898eb956fe3ae80426c86fa2d4
+Section: 插件
+Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
+Author: ren7995 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
+Name: Atria
+
+Package: com.wkk.tinge
+Version: 1.2.2
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/Tinge_1.2.2_iphoneos-arm64e.deb
+Size: 43208
+MD5sum: 11bb91e4b703aef8550fb4ce2d31ba17
+SHA1: 8ee4606dddfb63898ba9764b458476c4f3e40827
+SHA256: b8c44a436b30d1c3f7d68750e71283fef58561b03dbef445499923316f7db069
+Section: 插件
+Description: 好看的角标，有能力请支持正版，已汉化。
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/e1773edb2bf04d92112a9b709efdf7be.png
+Name: Tinge
+
+Package: com.zqbb.limitcharging
+Version: 1.0.8
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 248
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: zp.limitcharging.rootless
+Filename: ./debs/Hello Charging_1.0.8_iphoneos-arm64e.deb
+Size: 18412
+MD5sum: 010af21a3023e7ab884d020adff4bcec
+SHA1: b131b6d5b5c67c25c09d2fad50282192d5bce145
+SHA256: 930cfccd342890aae6cc316dc058c24bef36b90b1601e78c39c73aa707ed4e71
+Section: 插件
+Description: Hello Charging (限制充电)
+Author: zqbb
+Name: Hello Charging
+Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.limitcharging
+
+Package: com.zqbb.savephotos
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 72
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/Hello Snapper3_1.1-1_iphoneos-arm64e.deb
+Size: 4424
+MD5sum: 3c6d986e35dffb77c313a42f43235805
+SHA1: 8054fe728babdc61e119fcdb5f5117e1f593d808
+SHA256: 28b2a3bee10137515b5e15f5c7b83079a19172993bb36e854e145b9c313b6b77
+Section: 插件
+Description: 全屏截图按钮增加(保存至相册)功能,超过7个按钮时UI补全至7个,强迫症福音~!!!
+Author: zqbb
+Name: Hello Snapper3
+Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.savephotos
+
+Package: netskao.cccellularrate-rootless
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 616
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/CCCellularRate-Rootless_1.1-1_iphoneos-arm64e.deb
+Size: 89844
+MD5sum: 3bbc9049c57539d7951ee25ec0e90490
+SHA1: ca6c7b0d1b9535a0cb90365ed60f4ceb297424f4
+SHA256: a7dae2af88d1d08dbd4c523f11d705750b72e6b6a81704f134267468dde271d3
+Section: 插件
+Description: Quickly switch the type of cellular data 2/3/4/5G currently in use via the Control Center, only the types supported in the current device settings will be displayed
+Author: Netskao
+Name: CCCellularRate-Rootless
+
+Package: roothide
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Essential: yes
+Maintainer: roothide
+Installed-Size: 936
+Depends: libiosexec1 (>= 1.3.1-2)
+Filename: ./debs/roothide core_0.1.0_iphoneos-arm64e.deb
+Size: 41448
+MD5sum: 3b6c5458d8c2e30f09557842ab160c77
+SHA1: cb2648fc1be3f270d64b1d2007564650280c579e
+SHA256: 499d6b8b133ca7839ea2e65555513b6aecd1bc345e62075ab5be555d9bda649f
+Section: 插件
+Priority: required
+Description: roothide core package
+Author: roothide
+Name: roothide core
+
+Package: ws.hbang.alderis
+Version: 1.2.3-8+debug
+Architecture: iphoneos-arm64e
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 6016
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
+Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
+Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
+Filename: ./debs/Alderis Color Picker_1.2.3-8+debug_iphoneos-arm64e.deb
+Size: 551104
+MD5sum: a531a93d9ef36669fb2d93031428ad7f
+SHA1: 0ec80f5e79aceb41fe91378120658a5b1ebac2b7
+SHA256: caa9fc71ffea64ac656ebcbc161cc9f7a9c21e3b60611fab8318a78d1f9f1755
+Section: 插件
+Description: Color picker support library for tweaks
+Tag: role::developer, compatible_min::ios12.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/alderis
+Dev: hbang
+Icon: https://img.chariz.cloud/icon/alderis/icon@3x.png
+Name: Alderis Color Picker
+Support: https://hashbang.productions/support/
+
+Package: ws.hbang.common
+Version: 2.0-29
+Architecture: iphoneos-arm64e
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 3132
+Depends: firmware (>= 15.0)
+Filename: ./debs/Cephei Tweak Support_2.0-29_iphoneos-arm64e.deb
+Size: 270260
+MD5sum: ed2717a6687259c750ad52ce15cd5986
+SHA1: 63118b9cf379bb5479a9068fb928af0cc40bffab
+SHA256: c7f52a76ab7d374a7c4691e527d3241fecd61bdf06ef31991ab6769d998deaff
+Section: 插件
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios15.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/cephei
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Name: Cephei Tweak Support
+Support: https://hashbang.productions/support/
+
