@@ -1,0 +1,19 @@
+Package: cn.octoforce.squidextender
+Version: 3.7.4
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce, Backup
+Installed-Size: 9988
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/SquidExtender(激活码版)_3.7.4_iphoneos-arm64e.deb
+Size: 2237740
+MD5sum: 59370a9031d6f81b866a03daf4cc3323
+SHA1: f6b7903b9e1da5107155ceca6cafea082210af3e
+SHA256: 9976991956e26cf3bcebc15bcb4b1fd9215add338e6f9062b2144d4a6eacf259
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
