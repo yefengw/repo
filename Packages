@@ -36,6 +36,31 @@ Author: SquidForce, Backup
 Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
+Package: cn.zqbb.disupdateapp
+Version: 2.0.0-6
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 684
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/BlockAppUpdate 屏蔽App Store更新_2.0.0-6_iphoneos-arm64e.deb
+Size: 129732
+MD5sum: 67ab358aea606883c46f59ca2b4010c7
+SHA1: 41aaee5dcb75130737bf22f6cd947841150b9e7b
+SHA256: 8d9cbd50182dbf4a9acb0ce9febcba0a7d30ee725fcc71490f46b26482dbf7db
+Section: 插件
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+Description: Block App Store Updates!
+Tag: purpose::extension
+Author: zqbb <w2599z@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+Dev: zqbb
+Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
+Name: BlockAppUpdate 屏蔽App Store更新
+Sileodepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: cn.zqbb.holdcpu
 Version: 2.3.5-3
 Architecture: iphoneos-arm64e
@@ -300,6 +325,28 @@ Description: An awesome SwiftUI application!
 Author: 预言小猫
 Name: MeowTimeMachine
 
+Package: com.kingpuffdaddi.control-center.ccvpn
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 187
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/CCVPN_1.0.6_iphoneos-arm64e.deb
+Size: 15488
+MD5sum: 5a4186c575fd9bb131b00bd3d7736916
+SHA1: 22c88b404d7587b0276671cb45fbf62ff0641e04
+SHA256: 963041634c4a1c8e484d2616f78f8a956b1d5501bd3b46f57cc528634cc1e248
+Section: 插件
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Description: A Control Center Module to connect/disconnect VPN
+Tag: purpose::extension
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Dev: kingpuffdaddi
+Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
+Name: CCVPN
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
 Architecture: iphoneos-arm64e
@@ -431,6 +478,22 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libundirec
 Dev: opa334
 Name: libundirect
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.roothide.patchloader
+Version: 0.0.8
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 132
+Filename: ./debs/PatchLoader_0.0.8_iphoneos-arm64e.deb
+Size: 3824
+MD5sum: e0eb7ca43427a9df8d1ec18401153ae9
+SHA1: 5de8b17b57e447f3800de90ea28abad3956ca789
+SHA256: 7ad45835101d4817d7e30bc299a8d44ba53c58dd706b5cdeead0e3a1114e8f79
+Section: 插件
+Description: RootHide Dynamic Patches Loader
+Tag: role::developer
+Author: roothide
+Name: PatchLoader
 
 Package: com.sini.mterminal
 Version: 1.6
