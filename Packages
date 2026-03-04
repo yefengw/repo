@@ -290,6 +290,29 @@ Depiction: https://chariz.com/buy/misaki
 Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Name: Misaki
 
+Package: com.ichitaso.hideserialnumbers
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso
+Installed-Size: 472
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.hideserialnumber
+Filename: ./debs/HideSerialNumber 修改系统版本_0.0.4_iphoneos-arm64e.deb
+Size: 58468
+MD5sum: 2d9d285f630028127a43099e5c40df2a
+SHA1: 3315371f1e6bb9f66faa2759ddc2dfb979a28443
+SHA256: 33ff30f4a96760b6315f610ec889dbcad41fa18924d0f8115f1e0b79ead05ad3
+Section: 插件
+Description: 修改系统版本号
+ * Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Dev: ichitaso
+Icon: https://i.imgur.com/uFWkBXD.png
+Name: HideSerialNumber 修改系统版本
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/js.json
+
 Package: com.jontelang.snapper3
 Version: 1.2.1
 Architecture: iphoneos-arm64e
@@ -346,6 +369,24 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
 Dev: kingpuffdaddi
 Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
 Name: CCVPN
+
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/Hammer It_1.7.1_iphoneos-arm64e.deb
+Size: 962600
+MD5sum: 528ac9178910c4898f541dffadbbfd50
+SHA1: 4522a210064f4854f0f12ee873b7a4e3d1a7f383
+SHA256: bdfad7c82aa991021b8605a85e2bf3859af02810b008c205038cdbc9e1adc32b
+Section: 插件
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
 
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
@@ -478,6 +519,24 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libundirec
 Dev: opa334
 Name: libundirect
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.roothide.manager
+Version: 1.3.8
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 1108
+Depends: firmware (>= 15.0)
+Filename: ./debs/RootHide Manager_1.3.8_iphoneos-arm64e.deb
+Size: 752204
+MD5sum: 3bddf47e2061e9dd8100509f7e58b181
+SHA1: e34685d027471d250527ddcc83eacab4c655d86f
+SHA256: 9132e51783a47c90822e3b18cc1c0ce9f2a4ef15771a18504455ed71ce011bff
+Section: 插件
+Description: Configuare RootHide's Features
+Author: roothide
+Depiction: https://github.com/roothide/RootHideManagerApp
+Name: RootHide Manager
+Support: https://github.com/roothide/RootHideManagerApp
 
 Package: com.roothide.patchloader
 Version: 0.0.8
@@ -692,6 +751,25 @@ Description: 全屏截图按钮增加(保存至相册)功能,超过7个按钮时
 Author: zqbb
 Name: Hello Snapper3
 Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.savephotos
+
+Package: ellekit
+Version: 1.1.3-3
+Architecture: iphoneos-arm64e
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ElleKit_1.1.3-3_iphoneos-arm64e.deb
+Size: 348336
+MD5sum: 9dfef93b16ab376afe156737d840967f
+SHA1: 41edb3b570da3751c1af8fcc17766aadaa90cc16
+SHA256: 12c6c41047516f03a8b3e690b3e1bc9401ef30f516a92cc32611c7877b361b77
+Section: 插件
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+Name: ElleKit
 
 Package: netskao.cccellularrate-rootless
 Version: 1.1-1
