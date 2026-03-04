@@ -539,6 +539,24 @@ Dev: opa334
 Name: libundirect
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.roothide.manager
+Version: 1.3.8
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 1108
+Depends: firmware (>= 15.0)
+Filename: ./debs/RootHide Manager_1.3.8_iphoneos-arm64e.deb
+Size: 752172
+MD5sum: b806244ea28c5a3db01118fb0abb7318
+SHA1: f84fc0ba2ce8927694fd929cb15ff0060b3d19b7
+SHA256: 73097f8df06b7762de4e929cd490e384db8eeaad941474b46bdf2e1ca12af898
+Section: Tweaks
+Description: Configuare RootHide's Features
+Author: roothide
+Depiction: https://github.com/roothide/RootHideManagerApp
+Name: RootHide Manager
+Support: https://github.com/roothide/RootHideManagerApp
+
 Package: com.roothide.patchloader
 Version: 0.0.8
 Architecture: iphoneos-arm64e
