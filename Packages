@@ -136,6 +136,23 @@ Description: Safari Essential Features
 Author: 0xkuj
 Name: SafariX
 
+Package: com.25mao.wcplugins.rootless
+Version: 0.1-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/微信插件管理-Rootless_0.1-3_iphoneos-arm64.deb
+Size: 25002
+MD5sum: 0f20194d63a2ace756a4e97185d4d514
+SHA1: 26286fa9816f5d359624dc35748ce2605636108c
+SHA256: e7f5ee71b500751e73ad697138801cfad648304cb0b89dbba9d7d883eaf63f7b
+Section: Rootless
+Priority: optional
+Description: 插件管理-Rootless
+Author: Mao
+Name: 微信插件管理-Rootless
+Sponsor: admin@25mao.com
+
 Package: com.82flex.noredirect
 Version: 2.1
 Architecture: iphoneos-arm64e
