@@ -1,2 +1,0 @@
-#!/bin/zsh
-cd /var/mobile/Documents/repo && git pull --rebase --autostash && if ls /var/mobile/Documents/*.deb 2>/dev/null | grep -q .; then mv -v /var/mobile/Documents/*.deb debs/ && git add -A && git commit -m "同步插件变更(含新增): $(date '+%Y-%m-%d %T')" && { git push origin main && echo "✅ 新增同步成功！"; } || echo "❌ push 失败！"; else git add -A && git diff --cached --quiet || { git commit -m "同步插件变更(删除/修改): $(date '+%Y-%m-%d %T')" && { git push origin main && echo "✅ 删改同步成功！"; } || echo "❌ push 失败！"; }; fi
