@@ -136,26 +136,6 @@ Description: Safari Essential Features
 Author: 0xkuj
 Name: SafariX
 
-Package: com.25mao.miyou.rootless
-Version: 3.8-7
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/微信助手_3.8-7_iphoneos-arm64.deb
-Size: 8291566
-MD5sum: c363e42cfe8ebe7edc1c55cf5971d343
-SHA1: 9457cbef8f65b28dc2ad2cc9fd9a262203dd90d2
-SHA256: 03e7f0b4d48bac25674f504233837011cb7b890be77758fbdbd045750ba6172b
-Section: 微信插件
-Priority: optional
-Homepage: https://alist.138686.xyz
-Description: 微信助手-Rootless版
-Author: Mao
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 微信助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
-
 Package: com.82flex.noredirect
 Version: 2.1
 Architecture: iphoneos-arm64e
