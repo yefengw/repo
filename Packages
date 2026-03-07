@@ -1,21 +1,3 @@
-Package: byg.iosios.net.3dnetworkfixer-rootless
-Version: 1.1-8
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Installed-Size: 496
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/3DNetworkFixer修复联网-Rootless_1.1-8_iphoneos-arm64.deb
-Size: 141210
-MD5sum: 3ec231282e1aa7c6b2a29b23da1dc8bb
-SHA1: 8d336ef4ab68fbf03b6c84609fc089f34b5f3886
-SHA256: c95c2ee343b0a4e0e5d37dc611d46528e937f7e88ab391a6c13333f49f51f7d6
-Section: 系统增强
-Description: 安装之后注销，长按桌面图标唤出应用菜单，快捷修复该应用的联网权限！
-Author: Netskao
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 3DNetworkFixer修复联网-Rootless
-Sponsor: 搬运工
-
 Package: cn.octoforce.copyvault
 Version: 1.9.0
 Architecture: iphoneos-arm64e
@@ -153,23 +135,6 @@ Section: Tweaks
 Description: Safari Essential Features
 Author: 0xkuj
 Name: SafariX
-
-Package: com.25mao.wcplugins.rootless
-Version: 0.1-3
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/微信插件管理-Rootless_0.1-3_iphoneos-arm64.deb
-Size: 25002
-MD5sum: 0f20194d63a2ace756a4e97185d4d514
-SHA1: 26286fa9816f5d359624dc35748ce2605636108c
-SHA256: e7f5ee71b500751e73ad697138801cfad648304cb0b89dbba9d7d883eaf63f7b
-Section: Rootless
-Priority: optional
-Description: 插件管理-Rootless
-Author: Mao
-Name: 微信插件管理-Rootless
-Sponsor: admin@25mao.com
 
 Package: com.82flex.noredirect
 Version: 2.1
