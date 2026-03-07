@@ -1,3 +1,21 @@
+Package: byg.iosios.net.3dnetworkfixer-rootless
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 496
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/3DNetworkFixer修复联网-Rootless_1.1-8_iphoneos-arm64.deb
+Size: 141210
+MD5sum: 3ec231282e1aa7c6b2a29b23da1dc8bb
+SHA1: 8d336ef4ab68fbf03b6c84609fc089f34b5f3886
+SHA256: c95c2ee343b0a4e0e5d37dc611d46528e937f7e88ab391a6c13333f49f51f7d6
+Section: 系统增强
+Description: 安装之后注销，长按桌面图标唤出应用菜单，快捷修复该应用的联网权限！
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 3DNetworkFixer修复联网-Rootless
+Sponsor: 搬运工
+
 Package: cn.octoforce.copyvault
 Version: 1.9.0
 Architecture: iphoneos-arm64e
