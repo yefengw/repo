@@ -1175,22 +1175,6 @@ Markdowndescription: View & Manage Applications Data from your Home Screen<br><b
 Name: AppData
 Sileodepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
 
-Package: com.netskao.ccsim
-Version: 1.2-1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 204
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/iphoneos-arm64/CCSIM_1.2-1_iphoneos-arm64.deb
-Size: 24328
-MD5sum: 9ae088749e5ec1cf782b377c7f23ac88
-SHA1: 8fbe261abb8c50046e6fe57c3a234eac96c2f185
-SHA256: ee6d1c29393aeeb763d6726808ddb985fc7b3f945b5334200e925b5fa9f254e7
-Section: Tweaks
-Description: For dual-SIM cards, you can quickly enable or disable one of the SIM cards through the Control Center
-Author: Netskao
-Name: CCSIM
-
 Package: com.netskao.dumpdecrypter
 Version: 1.5-1
 Architecture: iphoneos-arm64
@@ -1691,6 +1675,24 @@ Description: 好看的角标，有能力请支持正版，已汉化。
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/12/26/e1773edb2bf04d92112a9b709efdf7be.png
 Name: Tinge
+
+Package: com.xybp888.callassist16.dopamine
+Version: 1.7.8
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/电话助手iOS16-正式版(Rootless)_1.7.8_iphoneos-arm64.deb
+Size: 2805568
+MD5sum: 5269fca84f248d04cff95f1adea24cdc
+SHA1: 1bbdd04e44c81fe7de588075009a395e92ec89fd
+SHA256: 2d9c6698d0a10b98e85442f3a34fd1ae0b619908b667db4ea5bf8f434d25f26b
+Section: Tweaks
+Priority: optional
+Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Author: xybp888
+Depiction: https://apt.htv123.com/view/315
+Name: 电话助手iOS16-正式版(Rootless)
+Sileodepiction: https://apt.htv123.com/sileo/315
 
 Package: com.xybp888.callassist16.dopamine.roothide
 Version: 2.2.9
