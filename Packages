@@ -179,24 +179,6 @@ Author: SquidForce, Backup
 Name: SquidGesturePro(激活码)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
 
-Package: cn.zqbb.ccatop
-Version: 2.3
-Architecture: iphoneos-arm64e
-Maintainer: SXX, Domo
-Installed-Size: 840
-Conflicts: ru.domo.cocoatop, ru.domo.cocoatop64, cn.zqbb.cocoatop64.inject.roothide, zp.cocoatop64.unject, zp.cocoatop64.unject.xina, zp.cocoatop64.inject
-Filename: ./debs/CocoaTop_2.3_zh_CN.deb
-Size: 205918
-MD5sum: c60e341d38316b85a56afd54a6b6372a
-SHA1: 98dd1b073ba15cd170a35c790e900295fbf05bf5
-SHA256: c0b3d7f7d3c39372cd822505760c14527925fa7b2567a1ff57c556b5cff7b2be
-Section: Tweaks
-Description: Process Viewer for iOS GUI, updated for iOS 13 by SXX.
-Author: Domo, SXX
-Icon: https://apt.002599.xyz/web/icon/cn.zqbb.ccatop.png
-Name: CocoaTop
-Sileodepiction: https://apt.002599.xyz/web/cn.zqbb.ccatop
-
 Package: cn.zqbb.disupdateapp
 Version: 2.0.0-6
 Architecture: iphoneos-arm64e
